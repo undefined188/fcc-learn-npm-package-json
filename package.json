@@ -1,6 +1,7 @@
 {
 	"author": "Ignas Rocys",
 	"name": "fcc-learn-npm-package-json",
+	"description": "This application will be used as learning backend",
 	"engines": {
 		"node": "14.x"
 	},
