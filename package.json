@@ -2,7 +2,7 @@
 	"author": "Ignas Rocys",
 	"name": "fcc-learn-npm-package-json",
 	"description": "This application will be used as learning backend",
-	"version": "1.0.0", 
+	"version": "1.0.0",
 	"engines": {
 		"node": "14.x"
 	},
