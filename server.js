@@ -22,6 +22,8 @@ if (!process.env.DISABLE_XORIGIN) {
   });
 }
 
+console.log('check')
+
 app.use('/public', express.static(process.cwd() + '/public'));
 
 app.route('/_api/package.json')
